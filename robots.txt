@@ -1,1 +1,1 @@
-Sitemap: https://vishal733.github.io/deepknol-fastpages/sitemap.xml
+Sitemap: https://deepknol.com/sitemap.xml
