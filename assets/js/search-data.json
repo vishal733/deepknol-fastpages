@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "Name: Kumar Vishal .",
           "url": "https://deepknol.com/about/",
           "relUrl": "/about/",
           "date": ""
@@ -50,6 +50,14 @@
   
 
   
+      ,"page7": {
+          "title": "Topics",
+          "content": "Use cases: . Reface | | For a street view car, how would you design a CV system to detect the newer addresses and add them to the map. | . Typical Computer Vision: . Pose Tracking | Markerless Motion Capture | | Lane detection | Object detection with VR camearas | Motion control tracking | If there are 200 million videos, how would you cateogrize them. | Customer Behaviour Tracking | Image Segmentation methods | Object recognition and Classification | Face tracking | Tracking movements (AR/VR) | Detect pornography (metamorphical analysis) | Healthcare releated | .",
+          "url": "https://deepknol.com/topics/",
+          "relUrl": "/topics/",
+          "date": ""
+      }
+      
   
 
   
@@ -59,7 +67,10 @@
   
 
   
-      ,"page10": {
+  
+
+  
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://deepknol.com/robots.txt",
